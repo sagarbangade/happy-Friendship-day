@@ -4,3 +4,4 @@
 Happy Friendship day code in c++ 
 </Br>
 Wish your friends in a unique way by using c++ code 
+I used a basic patter techniques in it 
