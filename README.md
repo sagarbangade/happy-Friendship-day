@@ -8,7 +8,6 @@ I used a basic patter techniques in it
 
 #OUTPUT : 
 
-
             *******                       *******
          *************                 *************
        *****************             *****************
@@ -55,4 +54,3 @@ I used a basic patter techniques in it
                             *****
                              ***
                               *
-
